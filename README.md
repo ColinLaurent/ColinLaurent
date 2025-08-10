@@ -4,8 +4,6 @@
 
 ## 🇫🇷 About Me 
 
-My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring a high level of energy, strong determination, and a quick learning ability to everything I do. I am deeply passionate about quantitative finance, computer science and eager to explore opportunities that will expand my knowledge and experience in this field.
-
 ##  🛠️ Skills 🛠️
 
 ### Programming Languages:
